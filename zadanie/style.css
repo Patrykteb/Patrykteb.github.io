@@ -1,0 +1,40 @@
+body {
+    font-family: Garamond;
+
+}
+
+.lewa,
+.srodek,
+.prawa {
+    width: 33%;
+    float: left;
+    padding: 10px;
+
+}
+
+.lewa {
+    background-color: #a7a2a2;
+
+}
+
+.srodek {
+    background-color: #e3e3f7;
+
+}
+
+.prawa {
+    background-color: #eaf3e0;
+}
+
+header {
+    background-color: #272626;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+img {
+    padding: 20px;
+    border-radius: 40px;
+}
